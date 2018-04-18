@@ -1,0 +1,16 @@
+{
+  "name": "citizen-medic",
+  "version": "0.1.0",
+  "description": "Splash page for CitizenMedic.org",
+  "main": "index.js",
+  "repository": "git@github.com:josephnle/CitizenMedic.git",
+  "author": "Joseph Le <josephle@me.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "browser-sync start --server --files \"css/*.css,js/*.js,img/*,*.html\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
