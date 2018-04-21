@@ -1,4 +1,15 @@
 .gear-background {
-  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(../img/gear.jpg);
+  background: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url(../img/gear.jpg);
   background-size: cover;
+}
+
+.fire-bg {
+  background: url(../img/fire-disaster.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+html, body {
+  font-family: 'Oxygen', sans-serif;
 }

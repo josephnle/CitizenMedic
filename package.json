@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "browser-sync": "^2.23.6"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.0"
   }
 }
